@@ -54,3 +54,25 @@ p{
  background-color: white;
  height: 30%;
 }
+
+@media screen and (max-width: 480px) {
+   .main{
+   
+    width: 90%;
+    margin: auto;
+   
+   background-color: #E6E6E6;
+    
+    box-shadow: 2px 2px  5px 3px #E6E6E6;
+    backdrop-filter: blur(5px);
+
+    padding: 5px;
+    border-radius: 50px 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+   
+    
+
+
+   }
+  }
